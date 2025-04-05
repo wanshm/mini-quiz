@@ -1,0 +1,12 @@
+body {
+  justify-content: center;
+  text-align: center;
+}
+
+.concealed {
+  background-color: lightgray;
+}
+
+.revealed {
+  background-color: lightgreen;
+}
